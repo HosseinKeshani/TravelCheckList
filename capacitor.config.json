@@ -1,0 +1,7 @@
+{
+  "appId": "com.arash.travelchecklist",
+  "appName": "چک‌لیست سفر",
+  "webDir": "www",
+  "backgroundColor": "#0C2340",
+  "android": { "backgroundColor": "#0C2340" }
+}
